@@ -1,0 +1,18 @@
+ASCII Dots
+An eso-lang first released in 2017. 
+
+Some of the features I look forward to look into and present include: dot warping, jumping from one spot on the program to a complete different one without a path having been established connecting them; the id component of the dot, and the possible ways we could use them; the concept of being able to have multiple ‘live dots’ executing different parts of code simultaneously; and just the overall dataflow programming style that this language implements.
+
+I chose this language due to the unique syntax and data flow programming style. I love a new challenge and looking at some sample programs this looks like one. The syntax is very artistic and has a logical flow to it, implementing almost exclusively symbols for syntax makes it very interesting in contrast to other languages such as java or python that read very almost like English. Overall the language is a very interesting having its inspirations pulled from electrical engineering, old mechanical computers, Befunge programming language (that has syntax even more complicated than ASCII Dots), and ASCII Art having the code intended to look artistic when viewed by programmers, and non-programmers alike.
+
+	As there is not much you can do with the language other than preforming tasks based on user input, I think a password generator would be a very interesting example program to make where the language cannot really store a variable or index strings for choosing chars, also there is not even a random library for choosing so you would have to formulate a seed for emulating a random choice.
+
+Confirmation Code:
+Language 43 is AsciiDots assigned to Jackson with id 357083(1) on 2024-01-27-05-42-41 (Confirmation code 357266=!=357266)
+
+Tentative bibliography resources:
+ESOLANGS ARTICLE: https://esolangs.org/wiki/AsciiDots 
+REPO: https://github.com/aaronjanse/asciidots?tab=readme-ov-file 
+DOCUMENTATION: https://ajanse.me/asciidots/language/ 
+LIBRARY DOCUMENTATION: https://ddorn.github.io/asciidots/docs/libs/ 
+MOTHERBOARD ARTICLE: https://www.vice.com/en/article/a33dvb/asciidots-is-the-coolest-looking-programming-language/  
